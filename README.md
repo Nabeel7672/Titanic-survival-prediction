@@ -59,6 +59,3 @@ The Titanic dataset used in this project can be downloaded from Kaggle: https://
 ```bash
 pip install pandas numpy scikit-learn
 
----
-## 📥 Dataset
-The Titanic dataset used in this project can be downloaded from Kaggle: https://www.kaggle.com/c/titanic
