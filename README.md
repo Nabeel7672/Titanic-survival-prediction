@@ -36,7 +36,7 @@ All outputs, charts, and model performance can be viewed directly in the Jupyter
 ---
 
 ## 📈 Model Performance
-The model achieved a good accuracy score on the test dataset (printed in the notebook).  
+The model achieved a good accuracy score on the test dataset 78%.  
 
 ---
 
@@ -45,7 +45,10 @@ The model achieved a good accuracy score on the test dataset (printed in the not
 - Handling categorical data  
 - Building classification models  
 - Evaluating model performance  
-- Practical implementation of Logistic Regression  
+- Practical implementation of Logistic Regression
+
+- ## 📥 Dataset
+The Titanic dataset used in this project can be downloaded from Kaggle: https://www.kaggle.com/c/titanic
 
 ---
 
